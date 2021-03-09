@@ -1,0 +1,11 @@
+C:\Program Files\MongoDB\Server\3.6\bin>mongoimport --db HW7DB --collection Customers --file C:/Users/Benjewman/Desktop/HW7Customer.json
+2017-12-08T15:41:34.348-0700    connected to: localhost
+2017-12-08T15:41:34.533-0700    imported 3 documents
+
+C:\Program Files\MongoDB\Server\3.6\bin>mongoimport --db HW7DB --collection Booking --file C:/Users/Benjewman/Desktop/HW7Booking.json
+2017-12-08T15:49:53.462-0700    connected to: localhost
+2017-12-08T15:49:53.707-0700    imported 3 documents
+
+C:\Program Files\MongoDB\Server\3.6\bin>mongoimport --db HW7DB --collection Flights --file C:/Users/Benjewman/Desktop/HW7Flight.json
+2017-12-08T15:56:38.255-0700    connected to: localhost
+2017-12-08T15:56:38.490-0700    imported 28 documents
